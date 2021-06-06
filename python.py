@@ -12,3 +12,5 @@ def result(a, b)
     print(sum)
     return sum
 >>>>>>> 2nd_branch
+
+testing
